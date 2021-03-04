@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"rnbunker"
+	],
+	"copyright": "Copyright © 2021, rnbunker",
+	"description": "An underdeveloped and very simple Terminal Text Editor made in Dlang using std.file.",
+	"license": "MIT",
+	"name": "edit",
+	"targetPath": "bin",
+	"targetName": "eDit",
+	"dflags": ["-Isrc/"]
+}
